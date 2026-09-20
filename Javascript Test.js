@@ -1,4 +1,4 @@
-console.log("Shubham");
+console.log("Shubham Gupta");
 
 1//Program to print numbers from 1 to 100 in reverse order
 for (let i = 100; i >= 1; i--) {
